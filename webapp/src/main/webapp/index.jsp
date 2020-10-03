@@ -2,7 +2,7 @@
 <h2> Deploying on a kubernetes using ansible for Valaxy Technologies </h2>
 <h2> Glad to see you here </h2>
 <h3> Deploying new code :) </h3>
-<h3> Now deploying new code on container </h3>
+<h3> Now deploying new code on container using ansible </h3>
 
 
 <body>
